@@ -4,7 +4,8 @@
 [![Latest Release Downloads](https://img.shields.io/github/downloads/budukratok/SC_not_so_ru/latest/total)](https://github.com/budukratok/SC_not_so_ru/releases/latest)
 [![Total Downloads](https://img.shields.io/github/downloads/budukratok/SC_not_so_ru/total.svg)](https://github.com/budukratok/SC_not_so_ru/releases)
 
-Эта модификация добавляет поддержку русского языка в игру сделанного силами сообщества "Star Citizen на русском"  
+Эта модификация добавляет поддержку русского языка в Star Citizen.
+Создана силами сообщества "Star Citizen на русском".
 Если вы нашли какие-то ошибки в переводе просьба обращатся в дискорд сообщества: https://discord.gg/8U45k2CkE4
 
 ## Установка
