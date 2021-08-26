@@ -4,7 +4,7 @@
 </Bugfix>
 <Languages enabled="true">
     <Language name="russian" locale_id="1049" />
-    <Language name="russian_nohud" locale_id="1049" />
+    <Language name="russiannohud" locale_id="1049" />
 </Languages>
 <Font enabled="true">
 	<Letter code="33" name="exclamation mark" />
