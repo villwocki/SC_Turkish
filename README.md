@@ -12,8 +12,8 @@
 
 ### Приложения для установки и обновления
 
-* https://github.com/h0useRus/StarCitizen
-* https://github.com/Shin0by/StarCitizen-Helper
+* https://github.com/h0useRus/StarCitizen/releases/latest
+* https://github.com/Shin0by/StarCitizen-Helper/releases/latest
 
 ### Как включить чтобы всё работало в приложении от h0useRus (на примере этой версии локализации)
 Зайти в настройки локализации:
