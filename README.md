@@ -54,3 +54,6 @@
 
 Для установки и обновления скачанной локализации вы можете использовать напрямую git и Python скрипты. Подробнее по ссылке:
 * https://github.com/defterai/StarCitizenModding
+
+Чтобы помочь поиску в гугле:
+Star Citizen русский язык, star citizen локализация, star citizen русификатор, стар ситизен русский, stra citizen на русском, citizen ru, citizen русский, русская локализация стар ситизен, Star Citizen
