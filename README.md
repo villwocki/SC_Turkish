@@ -2,7 +2,7 @@
 
 [![Latest Release Version](https://img.shields.io/github/release/budukratok/SC_not_so_ru?sort=date&label=Последняя%20версия)](https://github.com/budukratok/SC_not_so_ru/releases/latest)
 [![Latest Release Downloads](https://img.shields.io/github/downloads/budukratok/SC_not_so_ru/latest/total?label=Скачиваний%20последней%20версии*)](https://github.com/budukratok/SC_not_so_ru/releases/latest)
-[![Total Downloads](https://img.shields.io/github/downloads/budukratok/SC_not_so_ru/total.svg?label=Скачиваний%20всего*)](https://github.com/budukratok/SC_not_so_ru/releases) <sub><sup>\* - количество скачиваний только используя утилиту Star Citizen Tools</sup></sub>
+[![Total Downloads](https://img.shields.io/github/downloads/budukratok/SC_not_so_ru/total.svg?label=Скачиваний%20всего*)](https://github.com/budukratok/SC_not_so_ru/releases) 
 
 Эта модификация добавляет поддержку русского языка в Star Citizen.
 Создана силами сообщества "Star Citizen на русском" и является параллельной веткой основной полной локализации https://github.com/n1ghter/StarCitizenRu
