@@ -14,10 +14,11 @@
 
 ### Приложения для установки и обновления
 
-* https://github.com/h0useRus/StarCitizen/releases/latest
-* https://github.com/Shin0by/StarCitizen-Helper/releases/latest
+* Star Citizen Tools от h0use [описание](https://github.com/h0useRus/StarCitizen) | [скачать](https://github.com/h0useRus/StarCitizen/releases/latest) | [как включить](#sctools-settings)
+* Star Citizen Helper от Shin0by [описание](https://github.com/Shin0by/StarCitizen-Helper) | [скачать](https://github.com/Shin0by/StarCitizen-Helper/releases/latest) | [как включить](#schelper-settings)
 
-### Как включить чтобы всё работало в приложении от h0useRus (на примере этой версии локализации)
+<a name="sctools-settings"></a>
+### Как включить чтобы всё работало в приложении Star Citizen Tools от h0useRus
 Зайти в настройки локализации:
 
 ![Клик по "Локализация LIVE"](/.github/images/ZDXMYFMXKNUGIHN.png)
@@ -50,6 +51,11 @@
 
 ![Проверка обновлений](/.github/images/WMNFSPIDULLIXNV.png)
  
+
+<a name="schelper-settings"></a>
+### Как включить чтобы всё работало в приложении Star Citizen Helper от Shin0by 
+
+![Инструкция](/.github/images/nohud_example.png)
 
 
 ### Если нравится питон и хочется всё вручную
