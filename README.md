@@ -1,4 +1,5 @@
 # Локализация Star Citizen на русский язык (с сохранением оригинальных английских названий)
+# В данный момент включён EAC, локализация не работает - ждём пока CIG предоставят возможность включить её обратно
 
 [![Latest Release Version](https://img.shields.io/github/release/budukratok/SC_not_so_ru?sort=date&label=Последняя%20версия)](https://github.com/budukratok/SC_not_so_ru/releases/latest)
 [![Latest Release Downloads](https://img.shields.io/github/downloads/budukratok/SC_not_so_ru/latest/total?label=Скачиваний%20последней%20версии*)](https://github.com/budukratok/SC_not_so_ru/releases/latest)
