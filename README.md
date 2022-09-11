@@ -8,7 +8,7 @@ Gerekli Tool : https://github.com/Shin0by/StarCitizen-Helper
 
 çeviriye destek olmak istiyorsanız villwocki42@gmail.com mail adresinden ulaşabilirisiniz.
 
-Orjinal modding github adresi : 
+Orjinal modding github adresi : https://github.com/defterai/StarCitizenModding
 
 
 
