@@ -3,7 +3,7 @@
 	<StackCorruption1 />
 </Bugfix>
 <Languages enabled="true">
-    <Language name="russian" locale_id="1049" />
+    <Language name="turkish" locale_id="1049" />
     <Language name="russiannohud" locale_id="1049" />
     <Language name="russiannohuditemsmissions" locale_id="1049" />
 </Languages>
@@ -173,4 +173,14 @@
 	<Letter code="1102" name="uni042E" />  <!-- ю -->
 	<Letter code="1103" name="uni042F" />  <!-- я -->	
 	<Letter code="1105" name="uni0401" />  <!-- ё -->
+	<Letter code="286" name="uni011E" />  <!-- Ğ -->
+	<Letter code="287" name="uni011F" />  <!-- ğ -->
+	<Letter code="305" name="0131" />  <!-- ı -->
+	<Letter code="350" name="uni015E" />  <!-- Ş -->
+	<Letter code="351" name="uni015F" />  <!-- ş -->
+	<Letter code="246" name="uni00F6" />  <!-- ö -->
+	<Letter code="214" name="uni00D6" />  <!-- Ö -->
+	<Letter code="199" name="uni00C7" />  <!-- Ç -->
+	<Letter code="231" name="uni00E7" />  <!-- ç -->
+	
 </Font>
