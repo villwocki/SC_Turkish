@@ -177,10 +177,13 @@
 	<Letter code="287" name="uni011F" />  <!-- ğ -->
 	<Letter code="305" name="0131" />  <!-- ı -->
 	<Letter code="350" name="uni015E" />  <!-- Ş -->
-	<Letter code="351" name="uni015F" />  <!-- ş -->
+	<Letter code="351" name="uni015F" />  <!-- ş --> 
 	<Letter code="246" name="uni00F6" />  <!-- ö -->
 	<Letter code="214" name="uni00D6" />  <!-- Ö -->
 	<Letter code="199" name="uni00C7" />  <!-- Ç -->
 	<Letter code="231" name="uni00E7" />  <!-- ç -->
+	<Letter code="304" name="uni0130" />  <!-- İ -->
+	<Letter code="220" name="uni00DC" />  <!-- Ü -->
+	<Letter code="252" name="uni00FC" />  <!-- ü -->
 	
 </Font>
